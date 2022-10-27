@@ -1,0 +1,6 @@
+wikipedia
+scikit-learn
+pandas
+nltk
+beautifulsoup4
+streamlit==1.14.0
