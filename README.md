@@ -1,5 +1,10 @@
 # AskCovidDrBot
 
+## System Design
+**AskCovidDrBot** is a retrieval based chatbot which will extract the most similar answer to the question the user asked. Input from the user will be vectorized by the vectorizer, which was trained on our collected question and answer paired corpus. After the text vectorization, the input text becomes a vector and string similarities between the question user asked and the answer we predefined would be compared.
+
+![systemDesign](chatbot_system_design.png)
+
 ## Install requirements
 ```{r, engine='bash', count_lines}
 pip install -r requirements.txt
@@ -25,7 +30,6 @@ Chatbot : ကို ရိုနာဗိုင်းရပ်စ် ဆို �
 Bye
 Chatbot : Bye!!! 
 ```
-
 
 ## Demonstration
 ![Demo](demo.gif)
