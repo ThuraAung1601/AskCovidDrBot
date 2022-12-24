@@ -5,6 +5,10 @@
 
 ![systemDesign](askcoviddrPPT.png)
 
+## System GUI
+
+![systemGUI](askCovidDrDemo.png)
+
 ## Install requirements
 ```{r, engine='bash', count_lines}
 pip install -r requirements.txt
