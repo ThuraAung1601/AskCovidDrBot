@@ -47,7 +47,13 @@ Chatbot : Bye!!!
 
 ## Ref:
 Our retrieval based chatbot system is partially inspired by this paper.
-Htet Htet Yadana Oo, May Thae Sue, Ye Kyaw Thu, Hnin Aye Thant and Nang Aye Aye Htwe, "Rule-based Myanmar Language Chatbot for Travel and Tourism Domain", In Proceedings of the Tenth International Conference on Science and Engineering 2019 (ICSE 2019), Dec 7-8, 2019, Yangon, Myanmar, pp. 307-311 [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/ICSE2019/rule-based-Myanmar-chatbot.pdf) [[Slide]](https://github.com/ye-kyaw-thu/NLP-Class/blob/master/slide/13-chatbot-ppt-ICSE.pdf)
-
+```
+Htet Htet Yadana Oo, May Thae Sue, Ye Kyaw Thu, Hnin Aye Thant and Nang Aye Aye Htwe,
+"Rule-based Myanmar Language Chatbot for Travel and Tourism Domain",
+In Proceedings of the Tenth International Conference on Science and Engineering 2019 (ICSE 2019), Dec 7-8, 2019, Yangon, Myanmar, pp. 307-311 
+[[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/ICSE2019/rule-based-Myanmar-chatbot.pdf) [[Slide]](https://github.com/ye-kyaw-thu/NLP-Class/blob/master/slide/13-chatbot-ppt-ICSE.pdf)
+```
 ## Please cite this repository if you use the dataset
-Thura Aung, Pyi Hein San, "AskCovidDrBot: Retrieval based TF-IDF English and Burmese bilingual chatbot for Covid-19 domain", Github Link: https://github.com/ThuraAung1601/AskCovidDrBot  
+```
+Thura Aung, Pyi Hein San, "AskCovidDrBot: Retrieval based TF-IDF English and Burmese bilingual chatbot for Covid-19 domain", Github Link: https://github.com/ThuraAung1601/AskCovidDrBot
+``` 
