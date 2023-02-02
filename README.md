@@ -43,7 +43,8 @@ Chatbot : Bye!!!
 ## Contributors
 - Thura Aung (System Design and Data Preprocessing)
 - Pyi Hein San (Data Collection)
-- Acknowledgement : The authors appreciate Ye Yint Naing and Phyo Khant Kyaw for helping to check and correct word segmentation errors done by mmCRFSeg model. Also thanks to Prof. Khaing Myat Mon for the valuable advices.
+- Acknowledgement : The authors appreciate Ye Yint Naing* and Phyo Khant Kyaw* for helping to check and correct word segmentation errors done by mmCRFSeg model. Also thanks to Prof. Khaing Myat Mon* and Lecturer U Thet Naing Htwe* for the valuable advices.
+- \* are affiliated with Technological University (Kyaukse)
 
 ## Ref:
 Our retrieval based chatbot system is partially inspired by this paper.
