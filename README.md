@@ -43,11 +43,12 @@ Chatbot : Bye!!!
 ## Contributors
 - Thura Aung (System Design and Data Preprocessing)
 - Pyi Hein San (Data Collection)
-- Acknowledgement : The authors appreciate Ye Yint Naing* and Phyo Khant Kyaw* for helping to check and correct word segmentation errors done by mmCRFSeg model. Also thanks to Prof. Khaing Myat Mon* and Lecturer U Thet Naing Htwe* for the valuable advices.
+
+Acknowledgement : The authors appreciate Ye Yint Naing* and Phyo Khant Kyaw* for helping to check and correct word segmentation errors done by mmCRFSeg model. Also thanks to Prof. Khaing Myat Mon* and Lecturer U Thet Naing Htwe* for the valuable advices.
 - \* are affiliated with Technological University (Kyaukse)
 
 ## Ref:
-Our retrieval based chatbot system is partially inspired by this paper.
+Our retrieval based chatbot system is inspired by this paper.
 ```
 Htet Htet Yadana Oo, May Thae Sue, Ye Kyaw Thu, Hnin Aye Thant and Nang Aye Aye Htwe,
 "Rule-based Myanmar Language Chatbot for Travel and Tourism Domain",
